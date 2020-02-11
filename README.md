@@ -1,24 +1,13 @@
-# test
+# Error starting the vue cli interface
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Start the Cli UI
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+vue ui
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Error
