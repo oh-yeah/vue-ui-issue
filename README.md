@@ -11,3 +11,6 @@ vue ui
 ```
 
 ### Error
+```
+TypeError: _schema.then is not a function
+```
